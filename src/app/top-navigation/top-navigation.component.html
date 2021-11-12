@@ -1,0 +1,13 @@
+  <div class="topnav">
+    <a routerLink="home">{{'Home' | translate}}</a>
+    <a routerLink="tableview">{{'Table'| translate}}</a>
+    <a href="#contact">{{'Contact'| translate}}</a>
+    <a href="#about">{{'About' | translate}}</a>
+    <div class="topnav-right">
+      <select #langSelect (change)="changeLang(langSelect.value)"> 
+        <option value="" [selected]=true [disabled]="true">Select Language</option>
+        <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>  
+      </select> 
+    </div>
+  </div>
+  <router-outlet></router-outlet>

@@ -1,0 +1,11 @@
+table{
+  width: 100%;
+ }
+
+/* ::ng-deep .mat-paginator-page-size{
+  display: none !important;
+} */
+.th-mat-sort-header-container {
+  color: black;
+  align-items: center;
+}

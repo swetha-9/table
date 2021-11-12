@@ -1,0 +1,53 @@
+{
+  "blogs": [
+    {
+      "author": "Swetha Ramesh",
+      "title": "Blog title 1",
+      "id": "1"
+    },
+    {
+      "author": "Ramesh",
+      "title": "Blog title 2",
+      "id": "2",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
+    },
+    {
+      "author": "Gomathi",
+      "title": "Blog title 3",
+      "id": "3",
+      "description": "3 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
+    },
+    {
+      "author": "powerranges",
+      "title": "Blog title 4",
+      "id": "4"
+    },
+    {
+      "author": "Natasa",
+      "title": "Blog title 5",
+      "id": "5"
+    },
+    {
+      "author": "Krish",
+      "title": "Blog title 6",
+      "id": "6",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
+    },
+    {
+      "author": "Hulk",
+      "title": "Blog title 7",
+      "id": "7"
+    },
+    {
+      "author": "Thor",
+      "title": "Blog title 8",
+      "id": "8"
+    },
+    {
+      "author": "John",
+      "title": "Blog title 9",
+      "id": "9",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
+    }
+  ]
+}
